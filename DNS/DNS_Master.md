@@ -97,3 +97,9 @@ Agora vamos editar
 Primeiramente, vamos editar o arquivo ```db.grupo8.turma913.ifalara.local```:
 
 <img src="/IMG/f10.png" width=600/>
+
+E, então, você edita conforme a imagem abaixo:
+
+<img src="/IMG/f11.png" width=600/>
+
+
