@@ -136,9 +136,18 @@ Esperado:
 
 <img src="/IMG/f16.png" width=600/>
 
+Agora vamos verificar também db com o named-checkzone:
 
+comandos:
 
+```sudo named-checkzone grupo8.turma913.ifalara.local db.grupo8.turma913.ifalara.local
+```
 
+<img src="/IMG/f17.png" width=600/>
+
+```sudo named-checkzone 13.9.10.in-addr.arpa db.10.9.13.rev```
+
+<img src="/IMG/f18.png" width=600/>
 
 
 
