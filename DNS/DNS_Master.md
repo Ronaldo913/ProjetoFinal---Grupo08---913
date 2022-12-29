@@ -50,6 +50,20 @@ Como na imagem acima, não temos a pasta zones, então vamos criá-la com:
 ### 2.1 - Zonas
 
 Bem, agora, depois da pasta criada, vamos para as instalações da zona. 
+As zonas são especificadas em arquivos db. Vamos criar um diretório para armazendar os arquivos de zonas, que sera o diretório /etc/bind/zones
 
 #### 2.1.1 - Zona direta
+
+o arquivo db.labredes.ifalarapiraca.local conterá os nomes das máquinas do domínio labredes.ifalarapiraca.local
+Aqui vamos criar o arquivo de zona direta com o comando:
+
+```sudo cp /etc/bind/db.empty /etc/bind/zones/db.labredes.ifalarapiraca.local ```
+
+
+<img src="/IMG/f6.png" width=600/>
+
+
+
+
+
 
