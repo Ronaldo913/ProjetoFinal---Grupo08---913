@@ -78,7 +78,7 @@ Dessa vez utilizamos o comando:
 
 Ficando nesse caso:
 
-
+<img src="/IMG/f7.png" width=600/>
 
 
 
