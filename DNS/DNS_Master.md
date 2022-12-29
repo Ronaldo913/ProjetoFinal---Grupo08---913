@@ -20,3 +20,10 @@ E então, vamos fazer o ssh:
 
 ## 2 -Instalação
 
+Agora vamos instalar o BIND9.
+O BIND( é a aplicação de DNS que roda no servidor. Vamos instalá-lo via apt-get com o comando:
+
+```sudo apt-get install bind9-doc```
+
+
+
