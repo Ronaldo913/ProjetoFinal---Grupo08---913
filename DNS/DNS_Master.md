@@ -102,4 +102,10 @@ E, então, você edita conforme a imagem abaixo:
 
 <img src="/IMG/f11.png" width=600/>
 
+Agora vamos editar o arquivo ```db.10.9.13.rev``` com o comando:
+
+```sudo nano db.10.9.13.rev```
+
+<img src="/IMG/f13.png" width=600/>
+
 
