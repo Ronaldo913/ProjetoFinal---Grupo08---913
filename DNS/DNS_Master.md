@@ -80,5 +80,11 @@ Ficando nesse caso:
 
 <img src="/IMG/f7.png" width=600/>
 
+### 3 - Editando os arquivos
+
+Agora vamos para a pasta zones com o comando:
+
+<img src="/IMG/f8.png" width=600/>
+
 
 
