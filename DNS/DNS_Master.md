@@ -140,14 +140,26 @@ Agora vamos verificar também db com o named-checkzone:
 
 comandos:
 
-```sudo named-checkzone grupo8.turma913.ifalara.local db.grupo8.turma913.ifalara.local
-```
+```sudo named-checkzone grupo8.turma913.ifalara.local db.grupo8.turma913.ifalara.local```
 
-<img src="/IMG/f17.png" width=600/>
+<img src="/IMG/ronaldo5.png" width=600/>
 
 ```sudo named-checkzone 13.9.10.in-addr.arpa db.10.9.13.rev```
 
-<img src="/IMG/f18.png" width=600/>
+<img src="/IMG/ronaldo6.png" width=600/>
+
+Agora vamos ver o status com o comando:
+
+```systemctl status bind9```
+
+<img src="/IMG/f3png" width=600/>
+
+### Testes
+
+<img src="/IMG/prrintwidth=600/>
+
+
+
 
 
 
