@@ -37,7 +37,15 @@ Se estiver tudo correto como na imagem acima, não é necessário digitar o coma
 
 ```sudo systemctl enable bind9```
 
+Então damos um ```ls /etc/bind``` para verificar se temos a pasta ``zones``:
+
 <img src="/IMG/f4.png" width=600/>
+
+Como na imagem acima, não temos a pasta zones, então vamos criá-la com:
+
+```sudo mkdir /etc/bind/zones```
+
+<img src="/IMG/f5.png" width=600/>
 
 
 
