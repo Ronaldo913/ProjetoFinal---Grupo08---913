@@ -112,6 +112,8 @@ E em seguida edita conforme a imagem abaixo:
 
 Agora vamos voltar para a pasta bind com ```d ..```
 
+### 4 - Configuração do named.conf.local
+
 Depois disso, vamos editar o arquivo named.conf.local com o comando:
 
 ```sudo nano named.conf.local```
@@ -121,6 +123,20 @@ Depois disso, vamos editar o arquivo named.conf.local com o comando:
 Ao entrar, edite o arquivo conforme a imagem abaixo:
 
 <img src="/IMG/f15.png" width=600/>
+
+Para checar a sintaxe de configuração do BIND deve-se executar o comando named-checkconf. Este scritp checa os arquivos /etc/bind/named.conf.local:
+
+Dê um ```sudo named-checkconf```
+
+Vamos verificar, agora, a sintaxe desse arquivo named com:
+
+```cat named.conf.local```
+
+Esperado:
+
+<img src="/IMG/f16.png" width=600/>
+
+
 
 
 
