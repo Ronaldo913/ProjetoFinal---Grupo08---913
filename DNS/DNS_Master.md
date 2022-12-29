@@ -16,7 +16,7 @@ E então, vamos fazer o ssh:
 
 ```ssh administrador@10.9.13.130```
 
-<img src="/IMG/f1.png"/>
+<img src="/IMG/f1.png" width=600/>
 
 ## 2 -Instalação
 
@@ -25,7 +25,13 @@ O BIND( é a aplicação de DNS que roda no servidor. Vamos instalá-lo via apt-
 
 ```sudo apt-get install bind9 dnsutils bind9-doc```
 
-<img src="/IMG/f2.png"/>
+<img src="/IMG/f2.png" width=600/>
+
+Logo depois, vamos verificar o status com o comando:
+
+```sudo systemctl status bind9```
+
+<img src="/IMG/f3.png" width=600/>
 
 
 
