@@ -47,6 +47,10 @@ Como na imagem acima, não temos a pasta zones, então vamos criá-la com:
 
 <img src="/IMG/f5.png" width=600/>
 
+Verificando agora:
+
+<img src="/IMG/f5-1.png" width=600/>
+
 ### 2.1 - Zonas
 
 Bem, agora, depois da pasta criada, vamos para as instalações da zona. 
@@ -57,11 +61,22 @@ As zonas são especificadas em arquivos db. Vamos criar um diretório para armaz
 o arquivo db.labredes.ifalarapiraca.local conterá os nomes das máquinas do domínio labredes.ifalarapiraca.local
 Aqui vamos criar o arquivo de zona direta com o comando:
 
-```sudo cp /etc/bind/db.empty /etc/bind/zones/db.labredes.ifalarapiraca.local ```
+```sudo cp /etc/bind/db.empty /etc/bind/zones/db.grupox.turmaxxx.ifalara.local ```
 
+Lembrando: o arquivo db tem que ter as informações do grupo. Logo, nesse caso ficou:
 
 <img src="/IMG/f6.png" width=600/>
 
+#### 2.1.2 - Zona reversa
+
+- Utilizado quando não se conhece o IP mas sabe-se o nome do host.
+- vamos criar a zona reversa a partir do arquivo /etc/bind/db.127
+
+Dessa vez utilizamos o comando:
+
+```sudo cp /etc/bind/db.127 /etc/bind/zones/db.10.9.xx.rev```
+
+Ficando nesse caso:
 
 
 
