@@ -13,7 +13,6 @@ DNS:
 
 - [Roteiro - DNS Master](https://github.com/Ronaldo913/ProjetoFinal---Grupo08---913/blob/main/DNS/DNS_Master.md)
 - [Roteiro - DNS Slave](https://github.com/Ronaldo913/ProjetoFinal---Grupo08---913/blob/main/DNS/DNS_Slave.md)
-- [Roteiro - DNS Master e Slave](https://github.com/Roteiro913/ProjetoFinal---Grupo08---913/main/DNS_Master_e_Slave.md)
 
 Gateway:
 
