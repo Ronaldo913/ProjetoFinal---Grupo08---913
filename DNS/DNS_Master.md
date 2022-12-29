@@ -156,11 +156,11 @@ Agora vamos ver o status com o comando:
 
 ### Testes
 
-<img src="/IMG/prrint" width=600/>
+<img src="/IMG/prrint.png" width=600/>
 
 Fazendo ping:
 
-<img src="/IMG/prrrint" width=600/>
+<img src="/IMG/prrrint.png" width=600/>
 
 Caso o ping não funcione, faça o seguinte passo:
 
@@ -168,7 +168,7 @@ Vá para ```cd /etc/netplan``` e digite o comando:
 
 ```sudo nano 00-installer-config-yaml```
 
-img src="/IMG/ronaldo12" width=600/>
+<img src="/IMG/ronaldo12.png" width=600/>
 
 
 
