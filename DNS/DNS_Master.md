@@ -178,10 +178,33 @@ Digite agora o comando:
 
 ```resolvectl status ens160```
 
-para...
+para observar se os campos DNS servers e DNS Domain estão corretos.
 
 <img src="/IMG/ronaldo14.png" width=600/>
 
+
+Pronto!!!
+
+Apartir daqui pode fazer todos os testes possíveis:
+
+Exercícios:
+
+Faça login no gw e ping para as máquinas ns1, ns2, e dh1.
+Faça login no ns1 e ping para as máquinas ns2, gw, e dh1.
+Faça login no ns2 e ping para as máquinas ns1, gw, e dh1.
+Faça login no dh1 e ping para as máquinas gw, ns1 e ns2.
+Faça login no gw e nslookup para ns1, ns2, e dh1.
+Faça login no ns1 e nslookup para as máquinas ns2, gw, e dh1.
+Faça login no ns2 e nslookup para as máquinas ns1, gw, e dh1.
+Faça login no dh1 e nslookup para as máquinas gw, ns1 e ns2.
+Faça login no gw e dig para ns1, ns2, e dh1.
+Faça login no ns1 e dig para as máquinas ns2, gw, e dh1.
+Faça login no ns2 e dig para as máquinas ns1, gw, e dh1.
+Faça login no dh1 e dig para as máquinas gw, ns1 e ns2.
+Faça login no gw e dig -x para os IPs de ns1, ns2, e dh1.
+Faça login no ns1 e dig -x para os IPs de ns2, gw, e dh1.
+Faça login no ns2 e dig -x para os IPs de ns1, gw, e dh1.
+Faça login no dh1 e dig -x para os IPs de gw, ns1 e ns2.
 
 
 
