@@ -92,6 +92,8 @@ Verificando os arquivos com ```ls -la```:
 
 <img src="/IMG/f9.png" width=600/>
 
+Agora vamos editar
 
+Primeiramente, vamos editar o arquivo ```db.grupo8.turma913.ifalara.local```:
 
-
+<img src="/IMG/f10.png" width=600/>
