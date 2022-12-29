@@ -106,6 +106,23 @@ Agora vamos editar o arquivo ```db.10.9.13.rev``` com o comando:
 
 ```sudo nano db.10.9.13.rev```
 
+E em seguida edita conforme a imagem abaixo:
+
 <img src="/IMG/f13.png" width=600/>
+
+Agora vamos voltar para a pasta bind com ```d ..```
+
+Depois disso, vamos editar o arquivo named.conf.local com o comando:
+
+```sudo nano named.conf.local```
+
+<img src="/IMG/f14.png" width=600/>
+
+Ao entrar, edite o arquivo conforme a imagem abaixo:
+
+<img src="/IMG/f15.png" width=600/>
+
+
+
 
 
