@@ -84,7 +84,14 @@ Ficando nesse caso:
 
 Agora vamos para a pasta zones com o comando:
 
+```cd /etc/bind/zones``` 
+
 <img src="/IMG/f8.png" width=600/>
+
+Verificando os arquivos com ```ls -la```:
+
+<img src="/IMG/f9." width=600/>
+
 
 
 
