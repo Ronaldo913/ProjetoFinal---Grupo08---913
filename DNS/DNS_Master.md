@@ -170,6 +170,17 @@ Vá para ```cd /etc/netplan``` e digite o comando:
 
 <img src="/IMG/ronaldo12.png" width=600/>
 
+E implemente os dados conforme a imagem acima.
+
+obs.: não esqueça-se do sudo netplan apply
+
+Digite agora o comando:
+
+```resolvectl status ens160```
+
+para...
+
+<img src="/IMG/ronaldo14.png" width=600/>
 
 
 
