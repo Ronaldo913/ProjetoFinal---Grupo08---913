@@ -90,7 +90,7 @@ Agora vamos para a pasta zones com o comando:
 
 Verificando os arquivos com ```ls -la```:
 
-<img src="/IMG/f9." width=600/>
+<img src="/IMG/f9.png" width=600/>
 
 
 
