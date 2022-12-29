@@ -47,5 +47,9 @@ Como na imagem acima, não temos a pasta zones, então vamos criá-la com:
 
 <img src="/IMG/f5.png" width=600/>
 
+### 2.1 - Zonas
 
+Bem, agora, depois da pasta criada, vamos para as instalações da zona. 
+
+#### 2.1.1 - Zona direta
 
