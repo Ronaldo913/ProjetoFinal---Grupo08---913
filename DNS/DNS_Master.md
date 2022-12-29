@@ -16,7 +16,7 @@ E então, vamos fazer o ssh:
 
 ```ssh administrador@10.9.13.130```
 
-
+<img src="/IMG/f1.png"/>
 
 ## 2 -Instalação
 
