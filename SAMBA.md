@@ -126,7 +126,8 @@ utiliza o comando 29d para deletar o que tinha nele e coloca isso aqui:
    
    read only = yes
    
-   guest ok = no```
+   guest ok = no
+   ```
 
 Feito isso, tem que modificar as interfaces colocando da forma que está na imagem:
 
