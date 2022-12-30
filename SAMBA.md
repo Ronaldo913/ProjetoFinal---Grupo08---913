@@ -22,7 +22,10 @@ Depois
 
 Instalar o servidor samba na vm ‘smb’ (que foi o hostname atribuído no início deste passo a passo):
 
+```$ sudo apt update```
 <img src="/IMG/samba/image5.png" width=600/>
+
+```$ sudo apt install samba```
 <img src="/IMG/samba/image15.png" width=600/>
 
 ### Passo 4: 
