@@ -104,16 +104,16 @@ Logo  dá um status de novo:
 ## 4 - Testes
 
 <img src="/IMG/ns2/image7.png" width=600/>
-
---------------
 <img src="/IMG/ns2/image8.png" width=600/>
 <img src="/IMG/ns2/image10.png" width=600/>
-<img src="/IMG/ns2/image11.png" width=600/>
 <img src="/IMG/ns2/image14.png" width=600/>
 <img src="/IMG/ns2/image17.png" width=600/>
 <img src="/IMG/ns2/image20.png" width=600/>
-<img src="/IMG/ns2/image22.png" width=600/>
 <img src="/IMG/ns2/image23.png" width=600/>
 <img src="/IMG/ns2/image28.png" width=600/>
 <img src="/IMG/ns2/image37.png" width=600/>
+
+Checkzone:
+<img src="/IMG/ns2/image11.png" width=600/>
+<img src="/IMG/ns2/image22.png" width=600/>
 
