@@ -56,36 +56,65 @@ Para entrar no arquivo digita o seguinte comando:
 
 <img src="/IMG/samba/image14.png" width=600/>
 
-utiliza o comando 29d para deletar o que tinha nele e coloca isso aqui:
-[global]
+utiliza o comando 29d para deletar o que tinha nele e coloca isso aqui: 
+
+```[global] 
+
    workgroup = WORKGROUP
+   
    server string = %h server (Samba, Ubuntu)
+   
    log file = /var/log/samba/log.%m
+   
    max log size = 1000
+   
    logging = file
+   
    panic action = /usr/share/samba/panic-action %d
+   
    server role = standalone server
+   
    obey pam restrictions = yes
+   
    unix password sync = yes
+   
    passwd program = /usr/bin/passwd %u
+   
    passwd chat = *Enter\snew\s*\spassword:* %n\n *Retype\snew\s*\spassword:* %n\n *password\supdated\ssuccessfully* .
+   
    pam password change = yes
+   
    map to guest = bad user
+   
    usershare allow guests = yes
+   
 [printers]
+
    comment = All Printers
+   
    browseable = no
+   
    path = /var/spool/samba
+   
    printable = yes
+   
    guest ok = no
+   
    read only = yes
+   
    create mask = 0700
+   
 [print$]
+
    comment = Printer Drivers
+   
    path = /var/lib/samba/printers
+   
    browseable = yes
+   
    read only = yes
-   guest ok = no
+   
+   guest ok = no```
 
 Feito isso, tem que modificar as interfaces colocando da forma que está na imagem:
 
