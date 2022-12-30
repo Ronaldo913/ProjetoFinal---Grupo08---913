@@ -4,4 +4,4 @@
 
 Nomear a máquina usando o código seguinte:
 
-<img src="IMG/samba/imagem1.png" width=600/>
+<img src="/IMG/samba/imagem.png" width=600/>
