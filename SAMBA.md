@@ -45,8 +45,15 @@ Está ativo!!
 
 Criar um arquivo de backup:
 
+Código para criar o arquivo:
+```$```
+
 <img src="/IMG/samba/image19.png" width=600/>
+
+
 <img src="/IMG/samba/image7.png" width=600/>
+
+
 <img src="/IMG/samba/image4.png" width=600/>
 
 O seguinte comando é para limpar os comentários do arquivo
