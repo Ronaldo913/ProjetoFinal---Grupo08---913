@@ -99,15 +99,41 @@ reiniciar o servidor:
 
 Entra no arquivo de novo e modifica para usuário permitidos serem do grupo sambashare
 
-<img src="/IMG/samba/image1.png" width=600/>
-<img src="/IMG/samba/image2.png" width=600/>
-<img src="/IMG/samba/image6.png" width=600/>
-<img src="/IMG/samba/image9.png" width=600/>
-<img src="/IMG/samba/image10.png" width=600/>
-<img src="/IMG/samba/image11.png" width=600/>
 <img src="/IMG/samba/image16.png" width=600/>
-<img src="/IMG/samba/image17.png" width=600/>
-<img src="/IMG/samba/image22.png" width=600/>
-<img src="/IMG/samba/image23.png" width=600/>
+
+Acrescenta essa linha: valid users: 
+
+<img src="/IMG/samba/image11.png" width=600/>
+
+E reinicia o servidor:
+
 <img src="/IMG/samba/image24.png" width=600/>
+
+Adicionar usuário “aluno’ com a senha “alunoifal”:
+
+<img src="/IMG/samba/image23.png" width=600/>
+
+Adicionar o usuário no grupo sambashare:
+
+<img src="/IMG/samba/image17.png" width=600/>
+
+o usuário já está no grupo sambashare:
+
+<img src="/IMG/samba/image9.png" width=600/>
+
+Criar a seguinte pasta na home:
+
+<img src="/IMG/samba/image22.png" width=600/>
+
+Usa o seguinte comando para trocar o “dono’ da pasta para nobody nogroup:
+
+<img src="/IMG/samba/image2.png" width=600/>
+
+Para dar permissão de escrita para esse grupo:
+
+<img src="/IMG/samba/image1.png" width=600/>
+
+para colocar essa pasta pertencendo ao grupo sambashare:
+
+<img src="/IMG/samba/image10.png" width=600/>
 
